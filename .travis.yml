@@ -1,6 +1,4 @@
 language: java
-before_install:
-  - gem install rake
 jdk: 
   - oraclejdk8
 script: "./build.sh"
