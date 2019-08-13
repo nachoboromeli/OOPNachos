@@ -1,7 +1,6 @@
 package EjercicioEnviosPostales;
 
 public class Asignador {
-
     public static String asignarEnvio(Envio envio) {
         if (envio.obtenerPesoPaquetes()< 5){
             return "Bicicleta";

@@ -1,5 +1,3 @@
-before_install:
-  - chmod +x build.sh
 language: java
 jdk: 
   - oraclejdk11
